@@ -1,0 +1,31 @@
+<html>
+
+<head>
+  <title>johannes</title>
+  <script src="random.js"></script>
+</head>
+
+<body>
+  <div id="spaghetti" class="audioLoad">spaghetti
+    <img src="/Users/henrigimm/Documents/Johannes test/Illu Johannes/spaghetti.png">
+    <audio id="spegettiPlay">
+      <source src="/Users/henrigimm/Documents/Johannes test/spaghetti.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  <div id="bier" class="audioLoad">bier
+    <img src="/Users/henrigimm/Documents/Johannes test/Illu Johannes/bier.png">
+    <audio id="bierPlay">
+      <source src="/Users/henrigimm/Documents/Johannes test/bier.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  <div id="zelt" class="audioLoad">zelt
+    <img src="/Users/henrigimm/Documents/Johannes test/Illu Johannes/zelt.png">
+    <audio id="zeltPlay">
+      <source src="/Users/henrigimm/Documents/Johannes test/zelt.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</body>
+</html>
